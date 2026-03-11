@@ -39,14 +39,13 @@ section#telefone {
 
 iframe#tela {
     position: relative;
-    top: 80px;
-    left: 23px;
-    height: 471px;
-    width: 266px;
+    top: 79px;
+    left: 21px;
+    height: 472px;
+    width: 268px;
 }
 
 section#redes-sociais {
-    position: relative;
     text-align: right;
 }
 
